@@ -1,0 +1,9 @@
+.fixed-textarea {
+    resize: none;
+}
+.table {
+    text-align: center !important;
+}
+.pagination {
+    justify-content: center;
+}
